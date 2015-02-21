@@ -18,7 +18,10 @@ The `Tutorial` explains the theory behind resistor color codes and the requireme
 
 ![Tutorial](images/tutorial.jpg)
 
-The `Practice Mode` includes two options: (1) to guess the color codes given the resistance value or (2) to guess the resistance value given the color codes.
+The `Practice Mode` includes two options:
+
+1. To guess the color codes given the resistance value
+2. To guess the resistance value given the color codes.
 
 ![Practice Mode Cover](images/practice_cover.jpg)
 
