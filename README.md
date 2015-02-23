@@ -40,3 +40,4 @@ In the `Sort Resistors` level, players have to sort the resistors as quickly as 
 In the `Analyze Circuit` level, players have to correctly identify broken resistors using two-fingers either side of a resistor, much like a multimeter. Once identified, players will be taken to a second screen in which they will have to create the correct resistor by placing the color bands in the correct positions.
 
 ![Analyze Circuit Level](images/analyze_circuit.jpg)
+
