@@ -1,5 +1,7 @@
 ## Zerohm ##
 
+[![license](https://img.shields.io/github/license/suddi/zerohm.svg?maxAge=2592000)](https://github.com/suddi/zerohm/blob/master/LICENSE)
+
 Zerohm is an iPhone game designed to help science and engineering students learn the resistor color band codes, a fundamental identification system in the field of electronics.
 
 
