@@ -1,5 +1,6 @@
 ## Zerohm ##
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/98ac822f1909407b96edc39449af9b71)](https://www.codacy.com/app/Suddi/zerohm?utm_source=github.com&utm_medium=referral&utm_content=suddi/zerohm&utm_campaign=badger)
 [![license](https://img.shields.io/github/license/suddi/zerohm.svg?maxAge=2592000)](https://github.com/suddi/zerohm/blob/master/LICENSE)
 
 Zerohm is an iPhone game designed to help science and engineering students learn the resistor color band codes, a fundamental identification system in the field of electronics.
